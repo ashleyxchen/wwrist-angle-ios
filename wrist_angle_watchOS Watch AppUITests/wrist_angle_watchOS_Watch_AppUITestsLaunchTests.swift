@@ -1,13 +1,13 @@
 //
-//  wrist_angle_iosUITestsLaunchTests.swift
-//  wrist_angle_iosUITests
+//  wrist_angle_watchOS_Watch_AppUITestsLaunchTests.swift
+//  wrist_angle_watchOS Watch AppUITests
 //
 //  Created by Ashley Chen on 2025-11-20.
 //
 
 import XCTest
 
-final class wrist_angle_iosUITestsLaunchTests: XCTestCase {
+final class wrist_angle_watchOS_Watch_AppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

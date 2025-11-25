@@ -1,13 +1,13 @@
 //
-//  wrist_angle_iosUITests.swift
-//  wrist_angle_iosUITests
+//  wrist_angle_watchOS_Watch_AppUITests.swift
+//  wrist_angle_watchOS Watch AppUITests
 //
-//  Created by Ashley Chen on 2025-11-20
+//  Created by Ashley Chen on 2025-11-20.
 //
 
 import XCTest
 
-final class wrist_angle_iosUITests: XCTestCase {
+final class wrist_angle_watchOS_Watch_AppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
